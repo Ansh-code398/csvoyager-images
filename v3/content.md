@@ -10,8 +10,9 @@
 {{time:100}}
 {{bg_typ:img}}
 {{bg_link:https://cdn.pixabay.com/photo/2021/01/21/15/54/books-5937716_960_720.jpg}}
-{{class:d-flex flex-column min-vh-100 pt-5 justify-content-start align-items-center text-center}}
-####Plain text articles are boring and cause people to lose attetion.
+{{class:d-flex flex-column min-vh-100 pt-5 justify-content-start align-items-center text-center text-black}}
+### Plain text articles are boring and cause people to lose attention.
+<br>
 More than **65%** of the population are visual learners, which means they understand and grasp concepts better when they see graphics.
 
 ---
@@ -51,16 +52,22 @@ This entire video was made by our project only 😉
 
 ---
 {{time:100}}
-{{class:d-flex container flex-column min-vh-100 justify-content-center align-items-center}}
+{{class:d-flex container flex-column min-vh-100 justify-content-center align-items-center text-black}}
+{{bg_typ:img}}
+{{bg_link: https://cdn.pixabay.com/photo/2022/02/28/15/28/sea-7039471_960_720.jpg}}
 
 #### Advantages
+
 * Simpler
-* Efficent
+* Efficient
 * Faster
 
 ---
 {{time:100}}
 {{class:d-flex container flex-column min-vh-100 justify-content-center align-items-center}}
+
+{{bg_typ:img}}
+{{bg_link:https://cdn.pixabay.com/photo/2014/06/16/23/39/dark-red-370119_960_720.png}}
 
 #### What more is coming?
 Due to the hackathon time limit, we were not able to work on many features, which we will be adding soon and will make the videos more interesting.
@@ -71,13 +78,20 @@ Due to the hackathon time limit, we were not able to work on many features, whic
 ---
 {{time:100}}
 {{class:d-flex container flex-column min-vh-100 justify-content-center align-items-center}}
+{{bg_typ:img}}
+{{bg_link:https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_960_720.jpg}}
+
 #### Applications
+
 This solution can be largely beneficial to
 1. Educators,
 2. Documentary makers
 3. Changemakers
 4. Youtubers
 5. Etc
+
+<br>
+For them to transmit information easily in mass media 
 
 ---
 {{time:100}}
